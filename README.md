@@ -57,8 +57,7 @@ layer5-radar v1.0.4 // NODE: BR-932 // SÃO PAULO
   "provider": "Integrity-Lead Labs (São Paulo)"
 }
 ```
-
----
+> **🧠 Theoretical Core Engine:** This production case study is powered by the non-parametric isolation filters documented in the [Layer5 Homeostatic Integrity Radar](https://github.com).
 
 
 
@@ -74,6 +73,9 @@ The dynamic visualization below captures the exact microsecond of a zero-day mul
 
 ---
 
+
+---
+
 ## 📝 Executive Overview
 
 This case study documents the production telemetry, vulnerability mapping, and subsequent perimeter hardening of a financial high-frequency ingestion gateway. In production environments utilizing autonomous agentic infrastructures, traditional firewalls and signatureless static rule matrices fail against multi-threaded scrapers that rotate signatures and mimic human concurrent device interaction.
@@ -81,6 +83,13 @@ This case study documents the production telemetry, vulnerability mapping, and s
 This repository analyzes an active multi-stage web reconnaissance attack and provides the architectural blueprint implemented to neutralize the threat in sub-milliseconds without breaking enterprise-grade B2B transaction sandbox testing boundaries.
 
 ---
+
+---
+
+## 🔒 Cryptographic Token Governance
+
+For enterprise environments requiring immutable token authorization gates alongside Layer 5 perimeter boundaries, integrate our automated credential guardrail node: [TokenOps Guardian](https://github.com).
+
 
 ## 🏛️ Section A: The Incident & Vulnerable State
 
